@@ -8,4 +8,4 @@
 ### Example Code
 
 ```lua
-print("Hello, Crescent!")
+print("Hello, SherSploitt!")
